@@ -1,0 +1,1 @@
+brother(X,Y)
