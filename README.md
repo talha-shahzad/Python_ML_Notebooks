@@ -11,6 +11,9 @@ This repository contains various machine learning and data manipulation tasks im
 - **Co-linearity**: Analyzes the effects of co-linearity among predictor variables and how it impacts model performance.
 - **Logistic Regression**: Focuses on classification problems using logistic regression models.
 - **Lasso Regularization**: Explores feature selection and model regularization using the Lasso method.
+- **DFS and BFS**: Working and implementation of depth first and breath first searches.
+- **Genatic Algorithm**: Real-life Examples of Genetic algoritm.
+- **A-star and Alpha/Beta pruning**: Game based examples of A-star and alpha/beta pruning.
 
 ## Repository Overview
 Each file in the repository serves as a standalone task with a clear focus. The preview of each notebook provides a walkthrough of the working, methodology, and results of the respective task. Detailed explanations, visualizations, and code are included to ensure a comprehensive understanding of the topics.
